@@ -1,2 +1,2 @@
-# gitdemo
-vikas regmi is best
+# Python
+Vikas Regmi's python projects

@@ -1,3 +1,3 @@
 # Python
-Task-1: Perform basic mathematical operation on the basis of input given.
-Task-2: show basic greeting message on the respective input of names.
+Task 1: Check if a Number is Even or Odd
+Task 2: Sum of Integers from 1 to 50 Using a Loop
